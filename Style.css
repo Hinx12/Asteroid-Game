@@ -1,0 +1,54 @@
+* { 
+    font-family: Verdana;
+}
+
+body {
+    color: black;
+    background-color: lightgreen;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+section {
+	background-color:white;
+	border-radius: 15px;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: solid;
+	border-color: #4CAF50;
+	width: 1000px;
+	text-align: center;
+	padding: 12px;
+    margin-bottom: 10px;
+    height: 800px
+}
+
+button {
+	text-align: center;
+	background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
+
+#play {
+	display: none;
+}
+
+#end {
+	display: none;
+}
+
+#wrapper {
+    text-align: left;
+}
+
+
+
+
